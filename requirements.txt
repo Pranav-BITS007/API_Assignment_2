@@ -1,0 +1,9 @@
+streamlit
+pandas
+transformers<5
+torch
+sentence-transformers
+chromadb
+pypdf
+requests
+pip-system-certs
