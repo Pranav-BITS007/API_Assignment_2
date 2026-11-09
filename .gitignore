@@ -4,3 +4,4 @@ models/
 __pycache__/
 figures/
 *.pyc
+*.docx
